@@ -10,7 +10,7 @@ An average of elapsed time and memory usage is then generated and printed.
 To run the tests yourself, clone the repository and run the ```src/benchmark.php``` script.
 
 ```
-git clone -b develop https://github.com/huqis/template-engine-benchmark.git
+git clone -b develop https://github.com/devudopw/template-engine-benchmark.git
 cd template-engine-benchmark
 composer install
 php src/benchmark.php 10
