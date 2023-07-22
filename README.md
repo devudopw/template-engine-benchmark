@@ -12,7 +12,7 @@ To run the tests yourself, clone the repository and run the ```src/benchmark.php
 ```
 git clone -b develop https://github.com/devudopw/template-engine-benchmark.git
 cd template-engine-benchmark
-composer install
+composer update
 php src/benchmark.php 10
 ```
 
